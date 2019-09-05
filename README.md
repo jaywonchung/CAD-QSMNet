@@ -1,7 +1,7 @@
 # Introduction
 
-Implementation of and experiments on the QSMNet (https://arxiv.org/abs/1803.05627)
-
+Implementation of and experiments on the QSMNet (https://arxiv.org/abs/1803.05627)  
+-> Now CAD-QSMNet is not an implementation of the original QSMNet any more, but we indeed heavily drew inspiration from it.
 
 # Project Management
 
@@ -21,6 +21,7 @@ Record your training status on the [Wiki Training Page](https://github.com/jinh0
 2. Install prerequisites.
     
     Using Anaconda3.
+    torch >= 1.1.0
     
     - Cuda version == 8.0
    ```bash
@@ -67,7 +68,7 @@ Record your training status on the [Wiki Training Page](https://github.com/jinh0
    ```
    FYI, ```train.py``` saves the training state (epochs done, model weights, optimizer, and learning rate scheduler) every epoch (by default).
 
-6. Check your training status with TensorBoardX.
+6. Check your training status with PyTorch TensorBoard.
    ```bash
    tensorboard --logdir runs --host localhost
    ```
