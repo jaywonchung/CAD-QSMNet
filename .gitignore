@@ -1,0 +1,20 @@
+# System files
+.DS_STORE
+
+# Editor configurations
+settings.json
+
+# Python caches
+*.pyc
+
+# Data
+*.mat
+.idea/vcs.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/qsmnet.iml
+
+# Saved checkpoints
+Checkpoints/*
+runs/*
