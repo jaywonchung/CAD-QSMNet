@@ -1,15 +1,17 @@
 # Introduction
 
-Implementation of and experiments on the QSMNet (https://arxiv.org/abs/1803.05627)  
--> Now CAD-QSMNet is not an implementation of the original QSMNet any more, but we indeed heavily drew inspiration from it.
+Implementation of and experiments based on the QSMNet (https://arxiv.org/abs/1803.05627).  
+Now CAD-QSMNet is not an implementation of the original QSMNet any more, but we indeed heavily drew inspiration from it.  
+This work was done to submit to the [QSM Reconstruction Challenge 2.0](http://qsm.snu.ac.kr/?page_id=30).
 
-# Project Management
+# Contributions
 
-Refer to the [Wiki Home Page](https://github.com/jinh0park/QSMFirstOrDeath/wiki) for details on the challenge.
+Names are listed in alphabetical order:  
+- Jaewon Chung ([@jaywonchung](https://github.com/jaywonchung))
+- Jinho Park ([@jinh0park](https://github.com/jinh0park))
+- Yunchan Hwang([@yunchfruit](https://github.com/yunchfruit))
 
-List up your ideas on the [Wiki Ideas Page](https://github.com/jinh0park/QSMFirstOrDeath/wiki/Ideas)! Record its progress and results.
-
-Record your training status on the [Wiki Training Page](https://github.com/jinh0park/QSMFirstOrDeath/wiki/Training).
+Special thanks to Woojin Jung ([@wjjung93](https://github.com/wjjung93)) for his guidance and helpful advice during the challenge.
 
 # Test your idea
 
