@@ -22,8 +22,8 @@ Special thanks to Woojin Jung ([@wjjung93](https://github.com/wjjung93)) for his
    ```
 2. Install prerequisites.
     
-    Using Anaconda3.
-    torch >= 1.1.0
+    Using Anaconda3.  
+    `torch >= 1.1.0`
     
     - Cuda version == 8.0
    ```bash
